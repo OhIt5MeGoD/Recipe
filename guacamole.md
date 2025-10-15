@@ -4,5 +4,5 @@
 * lime
 * salt
 ## Instructions
-* put one avocado in the bowl
+* put one avocado in the bowl after peeling
 
